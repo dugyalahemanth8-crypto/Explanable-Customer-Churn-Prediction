@@ -27,6 +27,8 @@ Unlike standard "black-box" churn models found in many research papers, this pro
 ├── src/              # Core Logic (Train, Predict, Explain, Quality Benchmarking)
 ├── notebooks/        # Exploratory Data Analysis (EDA)
 └── requirements.txt  # Project dependencies
+```
+
 ⚙️ How to Run
 Install Dependencies:
 
