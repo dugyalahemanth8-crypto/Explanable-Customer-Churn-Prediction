@@ -2,6 +2,8 @@
 
 An end-to-end, production-grade Machine Learning system for the telecommunications industry. This project goes beyond simple binary prediction by implementing a **Verified Explainability Framework** to provide trustworthy, actionable insights for customer retention.
 
+### 🚀 [Click Here to View the Live Demo](https://explanable-customer-churn-prediction-nqpcbyktblkyyasxch82hk.streamlit.app/)
+
 ## 🚀 Key Innovations & Technical Rigor
 Unlike standard "black-box" churn models found in many research papers, this project implements:
 
