@@ -30,17 +30,20 @@ Unlike standard "black-box" churn models found in many research papers, this pro
 ```
 
 ⚙️ How to Run
+
 Install Dependencies:
 
 ```Bash
 pip install -r requirements.txt
-Train & Evaluate:
 ```
+Train & Evaluate:
+
 ```Bash
 python src/train.py
 python src/evaluate_explainability_quality.py
-Launch the Dashboard:
 ```
+
+Launch the Dashboard:
 ```Bash
 streamlit run app/streamlit_app.py
 ```
