@@ -32,17 +32,19 @@ Unlike standard "black-box" churn models found in many research papers, this pro
 ⚙️ How to Run
 Install Dependencies:
 
-Bash
+```Bash
 pip install -r requirements.txt
 Train & Evaluate:
-
-Bash
+```
+```Bash
 python src/train.py
 python src/evaluate_explainability_quality.py
 Launch the Dashboard:
-
-Bash
+```
+```Bash
 streamlit run app/streamlit_app.py
+```
+
 📈 Research Comparison
 This project was benchmarked against recent (2022-2026) XAI research in telecom. While many papers focus on raw AUC, this implementation prioritizes Explanation Fidelity, ensuring that the reasons provided for a customer leaving are mathematically sound and business-actionable.
 
